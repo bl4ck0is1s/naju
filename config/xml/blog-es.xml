@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ES - Blog Ecommerce de PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/es</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Dec 2016 08:00:34 +0000</lastBuildDate>
+	<language>es-ES</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Búsquedas locales en Google: todo lo que debes saber sobre el algoritmo “zarigüeya”</title>
+		<link>https://www.prestashop.com/blog/es/busquedas-locales-en-google-todo-lo-que-debes-saber-sobre-el-algoritmo-zarigueya/</link>
+		<comments>https://www.prestashop.com/blog/es/busquedas-locales-en-google-todo-lo-que-debes-saber-sobre-el-algoritmo-zarigueya/#comments</comments>
+		<pubDate>Fri, 16 Dec 2016 08:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Tendencias E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15130</guid>
+		<description><![CDATA[<p>Que las búsquedas locales están siendo cada vez más importantes para Google no es ninguna novedad, y la última actualización en el algoritmo del buscador mantienen esta tendencia. Aunque aún no está confirmado por Google, desde septiembre los resultados en búsquedas locales no han dejado de bailar y los expertos en SEO ya hablan de [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/busquedas-locales-en-google-todo-lo-que-debes-saber-sobre-el-algoritmo-zarigueya/">Búsquedas locales en Google: todo lo que debes saber sobre el algoritmo “zarigüeya”</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Que <strong>las búsquedas locales están siendo cada vez más importantes para Google</strong> no es ninguna novedad, y la última actualización en el algoritmo del buscador mantienen esta tendencia. Aunque <strong>aún no está confirmado por Google</strong>, desde septiembre los resultados en búsquedas locales no han dejado de bailar y <strong>los expertos en SEO ya hablan de un nuevo algoritmo</strong> de Google, al que le han puesto el nombre de <em>Possum</em>, que, en nuestro idioma, traduciríamos como zarigüeya. Aquí tienes toda la información para aprovechar los efectos de la última actualización de Google para tu página web.<span id="more-15130"></span></p>
+<h2 style="color:#80c99e">¿Por qué se llama Zarigüeya?</h2>
+<p>En primer lugar, queremos dejar claro que Google no ha confirmado ningún cambio de algoritmo local y, por lo tanto, <strong>el nombre</strong> no es oficial sino que <strong>ha sido elegido por los expertos en SEO</strong>. En concreto, ha sido <a href="https://twitter.com/philrozek" target="_blank">Phil Rozek</a>, experto en visibilidad local, el que sugirió el nombre cuando algunas empresas comenzaron a indicar que sus páginas web habían desaparecido de Google My Business, pero no, no estaban desaparecidas, sólo estaban “haciéndose el muerto” o, en inglés, “<em>playing possum</em>”.</p>
+<p>En definitiva, lo que estaba pasando es que <strong>Google estaba filtrando muchos de los resultados de Google My Business</strong>, por lo que sus dueños pensaban que, directamente, Google les había borrado la cuenta. Así que a los enlaces y contenido de calidad, se suma una nueva opción de cara al SEO local.</p>
+<h2 style="color:#80c99e">¿Cómo afecta el cambio?</h2>
+<p>Según parece, <strong>la actualización afecta</strong> directamente<strong> a los resultados locales y a los de Google Maps</strong>, modificando las web que muestra tanto en el 3-pack del resultado local (y que anteriormente eran 7) y los que se muestran cuando hacemos clic ver “más sitios”. Como siempre, este cambio es visible sobre todo en el SERP de Google en Estados Unidos, aunque se prevé que los cambios se vayan aplicando en el resto de países de forma paulatina, por lo que es probable que en breve veamos cambios en las diferentes páginas a medida que se implante la actualización, así que podemos anticiparnos a los cambios de SEO local.</p>
+<p>En concreto, y todo según lo observado en estas semanas, con el algoritmo <strong>se ha penalizado a las páginas que tienen el mismo dominio o teléfono en Google My Business y a páginas webs</strong> que no tienen su localización o en las que la localización no corresponde a la búsqueda que realizan los usuarios del negocio en Google.</p>
+<h2 style="color:#80c99e">¿A quién ha beneficiado?</h2>
+<p>Aunque algunas páginas se han visto perjudicadas en la búsqueda local, otras han salido ganando con el cambio de algoritmo y han visto como subían en el ranking del 3-pack de Google de un día para otro en determinadas búsquedas. Estos han sido algunos de los cambios a nivel SEO:</p>
+<h4 style="color:#80c99e">Mejoras para las empresas situadas en las zonas limítrofes de una ciudad</h4>
+<p>Cuando trabajamos SEO local en Google, las <strong>empresas que se encuentran en zonas limítrofes</strong> tienen problemas a la hora de rankear su web por el nombre de su ciudad ya que, a ojos de Google, a veces estas empresas estaban situadas fuera de la propia localidad donde querían posicionarse.</p>
+<p>Sin embargo, desde el cambio de algoritmo de Google estas páginas han visto como (las que tenían un buen trabajo de posicionamiento SEO detrás, claro) han subido de posiciones de manera automática, ya que Google empezaba a tenerlas en cuenta también para sus búsquedas locales.</p>
+<h4 style="color:#80c99e">Filtración en función de dirección para mejorar la experiencia de usuario</h4>
+<p>En el pasado, para los resultados a nivel local, Google utilizaba el dominio y el número de teléfono para filtrar aquellos resultados duplicados. Con la actualización del algoritmo también estudiará <strong>si hay varias cuentas dadas de alta con la misma dirección física Google las filtrará y sólo mostrará una de las páginas</strong>. Por ejemplo, imagínate un bufete de abogados especializado, cada uno, en una rama del derecho. Podrían tener una cuenta para el bufete en sí y luego una particular cada uno con su rama: matrimonial, laboral, penal, etc.; o un hospital privado donde cada médico especialista tenga su propia consulta. </p>
+<p>Al figurar todos en la misma dirección y con la misma página web, Google los considera contenido duplicado, por lo que, a nivel SEO, los filtra y muestra sólo una de las opciones ya que resulta más cómodo para los usuarios en su búsqueda local. Piensa por ejemplo si, como usuario, estás buscando un abogado, ¿a que te resultaría inútil que te mostrara tres o cuatro veces la misma dirección? </p>
+<p>Aunque esto era algo que ya hacía anteriormente Google, cada vez son más las empresas filtradas, ya que el buscador está afinando sus formas de conocer si una página pertenece, o no, a la misma web que otra, y penalizarlas o favorecerlas en los resultados de SEO local.</p>
+<h4 style="color:#80c99e">La ubicación física del usuario, cada vez más importante</h4>
+<p>Esto puede perjudicar al SEO de empresas que venden en un ámbito un poco más amplio al local (y, por el contrario, beneficiar a las más locales), aunque sea simplemente en regiones cercanas, y es que <strong>Google va a dar prioridad a aquellas empresas que estén más cerca del usuario</strong> a la hora de realizar su búsqueda. La SERP de Google será diferente en las búsquedas tipo “servicio+ciudad” incluso cuando realicemos la búsqueda con exacto contenido (las mismas palabras clave), si nos encontramos en ciudades diferentes.</p>
+<p>Por ejemplo, si realizamos la búsqueda “abogados+Madrid”, los resultados serán diferentes si hacemos esta búsqueda desde la propia ciudad de Madrid o si la hacemos, por ejemplo, en Barcelona, aunque pongamos exactamente los mismos términos de búsqueda, ya que Google va a tener muy en cuenta la IP del usuario para conocer dónde se encuentra.</p>
+<h4 style="color:#80c99e">Ligeras variaciones de la palabra clave ofrecen diferentes resultados</h4>
+<p>Antes de la actualización del algoritmo, si buscábamos “abogados en Madrid”, “Madrid abogados” o “Abogado Madrid”, por ejemplo, los resultados eran si no iguales, muy similares, ofreciendo las mismas web.<br />
+Sin embargo, desde el cambio del algoritmo de Google <strong>los resultados fluctúan incluso con búsqueda tan similar y las web del 3-pack varían</strong>. Esto puede ser señal de que Google está realizando cambios aún en su algoritmo para testarlo y mejorarlo</p>
+<h4 style="color:#80c99e">Los resultados locales, cada vez más independientes de los resultados orgánicos</h4>
+<p>Parece ser que, aunque Google considere que una página está duplicada y, por lo tanto, la filtra de su SERP, sí puede aparecer en las búsquedas locales. Además, <strong>algunas web pueden aparecer</strong> por duplicado,<strong> tanto en los resultados normales como en el 3-pack de las búsquedas locales</strong>, ya que parecen funcionar por separado, lo que supone una doble visibilidad para la empresa de cara a los usuarios de Google.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/busquedas-locales-en-google-todo-lo-que-debes-saber-sobre-el-algoritmo-zarigueya/">Búsquedas locales en Google: todo lo que debes saber sobre el algoritmo “zarigüeya”</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/busquedas-locales-en-google-todo-lo-que-debes-saber-sobre-el-algoritmo-zarigueya/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>«Sell Faster»: optimizar la experiencia diaria del usuario</title>
+		<link>https://www.prestashop.com/blog/es/sell-faster-optimizar-la-experiencia-diaria-del-usuario/</link>
+		<comments>https://www.prestashop.com/blog/es/sell-faster-optimizar-la-experiencia-diaria-del-usuario/#comments</comments>
+		<pubDate>Wed, 07 Dec 2016 10:18:48 +0000</pubDate>
+		<dc:creator><![CDATA[Sebastien Levaillant]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15105</guid>
+		<description><![CDATA[<p>«Code Better, Create Easier, Sell Faster». PrestaShop 1.7 presenta progresos reales para cada actividad involucrada en la creación de una tienda en línea: desarrollo, diseño de temas y venta. «Sell Faster» se dirige a nuestros usuarios: los vendedores. El equipo de producto se encarga de la mejora de su día a través del denominado «diseño [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/sell-faster-optimizar-la-experiencia-diaria-del-usuario/">«Sell Faster»: optimizar la experiencia diaria del usuario</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>«Code Better, Create Easier, Sell Faster». <a href="https://www.prestashop.com/es/1.7" target="_blank">PrestaShop 1.7</a> presenta progresos reales para cada actividad involucrada en la creación de una tienda en línea: desarrollo, diseño de temas y venta.<span id="more-15105"></span></p>
+<p><strong>«Sell Faster» se dirige a nuestros usuarios: los vendedores.</strong></p>
+<p>El equipo de producto se encarga de la mejora de su día a través del denominado «diseño centrado en el usuario».</p>
+<p>Cuando un vendedor escoge PrestaShop lo hace por una sencilla y única razón: ser capaz de vender sus productos o servicios.</p>
+<p>Esto probablemente sea obvio, pero su consecuencia directa es fundamental: no debe tener que enfrentarse inmediatamente con la amplitud de funciones del programa operativo ni con el bloqueo que le podría suponer.</p>
+<p>El mercado del comercio electrónico está en proceso de democratización y hay nuevos vendedores con menos experiencia que también deciden unirse a la aventura. Hemos querido facilitar el primer contacto con el programa operativo y acompañarles en los primeros pasos necesarios para convertirse en vendedores de comercio electrónico.</p>
+<p>Para ello nos hemos centrado en algunas actividades imprescindibles en la creación de una tienda en línea con el único objetivo de hacerlas más fáciles e intuitivas.</p>
+<p>Según este enfoque, las funcionalidades no se deben considerar como un fin en sí mismas sino como un «simple» apoyo para la realización de las mencionadas actividades.</p>
+<p>Esta voluntad de simplificar el uso del programa operativo responde también a las peticiones de los usuarios con más experiencia, empresas que después de muchos años en el comercio electrónico desean poder acceder a un programa más sencillo que les acompañe en su desarrollo.</p>
+<p>La versión 1.7.0 es el resultado del análisis de los datos de uso de decenas de miles de tiendas así como de numerosas entrevistas, encuestas y pruebas de usuarios.</p>
+<p>El resultado es el rediseño del proceso y de la interfaz de usuario para:</p>
+<ul>
+<li>El primer contacto con PrestaShop:<br />
+Hemos indicado claramente los seis pasos imprescindibles para crear una tienda en línea. No es obligatorio realizar este recorrido simplificado para el primer contacto. Se trata simplemente de una guía que ponemos a su disposición.</li>
+<li>La creación de productos:<br />
+Hemos reducido de 15 a 5 minutos el tiempo necesario para crear un producto sencillo. Este es un elemento clave, ya que sin productos no hay pedidos. Hemos mejorado también el añadido de productos en masa al permitir el uso de nuevos formatos de archivos.</li>
+</ul>
+<p>La gestión de la parte administrativa de la tienda es más rápida y eficaz y el tiempo de publicación en línea de los productos se ha reducido de forma drástica. Son dos avances clave que permitirán un «Time to Market» (plazo de comercialización) muy corto, especialmente en períodos de venta importantes o en el caso de una expansión internacional.</p>
+<p>Hemos preguntado a nuestro club de usuarios y hemos visitado a muchos vendedores para conocer su opinión sobre la mejora de estos procesos. Si desea participar en las pruebas de productos regístrese en nuestro <a href="http://www.prestashop.com/club/" target="_blank">club</a>.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/sell-faster-optimizar-la-experiencia-diaria-del-usuario/">«Sell Faster»: optimizar la experiencia diaria del usuario</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/sell-faster-optimizar-la-experiencia-diaria-del-usuario/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fiestas navideñas: tendencias y perspectivas de e-commerce 2015/2016</title>
+		<link>https://www.prestashop.com/blog/es/fiestas-navidenas-tendencias-y-perspectivas-de-e-commerce-20152016/</link>
+		<comments>https://www.prestashop.com/blog/es/fiestas-navidenas-tendencias-y-perspectivas-de-e-commerce-20152016/#comments</comments>
+		<pubDate>Wed, 07 Dec 2016 10:18:18 +0000</pubDate>
+		<dc:creator><![CDATA[Cindy Deguingand]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15109</guid>
+		<description><![CDATA[<p>Habéis sido muchos los participantes en la encuesta de los preparativos de las fiestas navideñas para la tienda online, en España y en todo el mundo*y como lo prometido es deuda, en este artículo encontraréis los resultados. Hemos evaluado el impacto de este periodo en vuestra actividad y costumbres en lo que se refiere a [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/fiestas-navidenas-tendencias-y-perspectivas-de-e-commerce-20152016/">Fiestas navideñas: tendencias y perspectivas de e-commerce 2015/2016</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Habéis sido muchos los participantes en la encuesta de los preparativos de las fiestas navideñas para la tienda online, en España y en todo el mundo*y como lo prometido es deuda, en este artículo encontraréis los resultados.</p>
+<p>Hemos evaluado el impacto de este periodo en vuestra actividad y costumbres en lo que se refiere a la preparación de este momento crucial del año que va normalmente acompañado de un fuerte incremento de las ventas.</p>
+<p>Descubre las tendencias y perspectivas de e-commerce 2015-2016.<span id="more-15109"></span></p>
+<p><img class="alignnone size-full wp-image-15112" alt="infographie_ES" src="https://www.prestashop.com/blog/es/files/2016/12/infographie_ES.jpg" width="700" height="4218" /></p>
+<h2 style="color: #251b5b; font-weight: bold;">Fiestas Navideñas : Balance de 2015</h2>
+<p>Las fiestas navideñas representan un periodo clave para los vendedores online, pero, fueron menos importantes que el año pasado, con ventas repartidas a lo largo del año.</p>
+<p>Este año, el 60 % de los vendedores online encuestados estima que las fiestas navideñas representan menos del 10 % de su facturación; mientras que el 27 % calcula que representan entre el 10 y el 25 %.</p>
+<p>Es una tendencia que se confirma si se compara con nuestras cifras del año pasado (<a href="http://s1.edi-static.fr/Img/INFOGRAPHIE/2015/11/262027/Black-Friday-Cyber-Monday-commer-ants-fran-ais-plus-plus-F.jpg" target="_blank">consultar nuestra infografía</a>). Los vendedores online consiguen repartir mejor ventas a lo largo del año. Esto se explica por la multiplicación de periodos promocionales a lo largo del año: Black Friday, Cyber Monday, Rebajas, San Valentín, Día de la Madre… Consultando nuestro <a href="http://addons.prestashop.com/es/11537-calendario-e-commerce-espana.html" target="_blank">calendario de e-commerce</a> tendrás más detalles.</p>
+<h2 style="color: #251b5b; font-weight: bold;">Perspectivas para la temporada 2016</h2>
+<p>¡Buenas noticias! Los vendedores online españoles y europeos esperan con optimismo las ventas de este año: el 70 % estima que alcanzará un volumen de ventas superior a la del año pasado.</p>
+<p><strong>Contratos</strong></p>
+<p>En cambio, en España, solo el 10 % de las tiendas e-commerce prevé realizar contratos específicos para las fiestas, frente al 13 % de la media europea de los encuestados. Esto se debe al gran número de microempresas y pymes que han respondido a la encuesta (el 94 % con entre 0 y 10 empleados).</p>
+<p>Los perfiles más buscados para los que han decidido contratar personal en este periodo son, sobre todo, <strong>responsables de pedidos y devoluciones de paquetes (65 %)</strong>. A continuación, se sitúan los responsables de redes sociales o responsables de e-mail marketing (22 %), seguidos por los puestos relacionados con la asistencia técnica (17,4 %).</p>
+<h2 style="color: #251b5b; font-weight: bold;">Los preparativos de las fiestas navideñas</h2>
+<p>El 85 % de los vendedores online españoles declara preparar su tienda online para las fiestas navideñas. Entre ellos, el 95 % empieza con una antelación de entre 1 y 3 meses. Por tanto, en <strong>octubre</strong> se establecen los principales planes de acción de los vendedores online para estas fechas.</p>
+<p><strong>Cuáles son sus tres principales preocupaciones para estas fiestas</strong></p>
+<p><strong>1/ La preparación de su tienda online:</strong> diseño navideño, incorporación de fichas de producto, ofertas promocionales&#8230; de ahí la importancia de contratar un diseñador web o un desarrollador.</p>
+<p><strong>2/ La preparación de campañas promocionales de correo electrónico</strong> destinadas a aumentar el número de pedidos y el carrito de la compra medio.</p>
+<p><strong>3/ Un abastecimiento ideal:</strong> ni demasiadas existencias, ni insuficientes. Buscar el equilibro permite evitar, por un lado, los productos sin vender después de las fiestas y, por otro, que se agoten las existencias, lo que provocaría una pérdida inmediata de la venta.</p>
+<h2 style="color: #251b5b; font-weight: bold;">La importancia del móvil en el volumen de ventas de e-commerce a finales de año</h2>
+<p>Para los vendedores online que respondieron esta pregunta (el 81 % de los encuestados), <strong>la proporción de volumen de ventas obtenida a través del móvil durante las fiestas representa el 17 %</strong> de media.</p>
+<p>Por el contrario, el 19 % de los encuestados no conocía la importancia del móvil para su facturación.</p>
+<p>Se puede deducir que existe aún un margen de maniobra a la hora de optimizar los sitios de e-commerce para los dispositivos móviles. Gracias a la implementación de <a href="https://www.google.com/intl/es/analytics/features/mobile-site-traffic.html" target="_blank">Google Analytics</a>, podrás evaluar el volumen de ventas que obtienes a través este tipo de dispositivos. Así, podrás identificar qué sistemas operativos para móviles y qué dispositivos móviles específicos envían visitantes a su e-commerce.</p>
+<h2 style="color: #251b5b; font-weight: bold;">La importancia de las redes sociales en la estrategia de marketing de e-commerce</h2>
+<p>En España, las redes sociales se consideran importantes para la estrategia de marketing de los vendedores online: el 54 % las considera cruciales en su comunicación en torno a las fiestas navideñas y, el 33 %, bastante importante. Por ello, el puesto de responsable de redes sociales se ha convertido en el top 3 de los puestos más solicitados que los vendedores online españoles están dispuestos a contratar durante las fiestas navideñas.</p>
+<p>Estas cifras concuerdan con la media europea de los vendedores online que participaron en el estudio, de los cuales el 57 % estima que las redes sociales son esenciales para su estrategia de marketing.</p>
+<p>*Muestra de los encuestados: <strong>315</strong> vendedores online en activo en España, <strong>1305</strong> en Europa y <strong>1898</strong> en todo el mundo.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/fiestas-navidenas-tendencias-y-perspectivas-de-e-commerce-20152016/">Fiestas navideñas: tendencias y perspectivas de e-commerce 2015/2016</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/fiestas-navidenas-tendencias-y-perspectivas-de-e-commerce-20152016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 consejos útiles para convertir tus quejas en una gran experiencia del cliente</title>
+		<link>https://www.prestashop.com/blog/es/7-consejos-utiles-para-convertir-tus-quejas-en-una-gran-experiencia-del-cliente/</link>
+		<comments>https://www.prestashop.com/blog/es/7-consejos-utiles-para-convertir-tus-quejas-en-una-gran-experiencia-del-cliente/#comments</comments>
+		<pubDate>Tue, 06 Dec 2016 07:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15096</guid>
+		<description><![CDATA[<p>¿Sabías que hasta el 66 % de los clientes insatisfechos asegura que no repetirían con una empresa con la que han tenido una mala experiencia como clientes? ¡Asusta mucho! En el vídeo de hoy, Jeremy Tree, director de gestión empresarial de Youstice, ofrece siete formas de evitar herir la sensibilidad de los clientes a la [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/7-consejos-utiles-para-convertir-tus-quejas-en-una-gran-experiencia-del-cliente/">7 consejos útiles para convertir tus quejas en una gran experiencia del cliente</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¿Sabías que hasta el 66 % de los clientes insatisfechos asegura que no repetirían con una empresa con la que han tenido una mala experiencia como clientes? ¡Asusta mucho!<span id="more-15096"></span></p>
+<p>En el vídeo de hoy, Jeremy Tree, director de gestión empresarial de Youstice, ofrece siete formas de evitar herir la sensibilidad de los clientes a la hora de tratar con valoraciones negativas. Estos consejos claros y sencillos te permitirán transformar al instante tus quejas en conversiones.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/Am-P4SIfgc4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=youstice">Ver más videos</a></div>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/7-consejos-utiles-para-convertir-tus-quejas-en-una-gran-experiencia-del-cliente/">7 consejos útiles para convertir tus quejas en una gran experiencia del cliente</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/7-consejos-utiles-para-convertir-tus-quejas-en-una-gran-experiencia-del-cliente/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Por qué PrestaShop 1.7 ayuda a los diseñadores de temas a “crear con mayor facilidad”</title>
+		<link>https://www.prestashop.com/blog/es/por-que-prestashop-1-7-ayuda-los-disenadores-de-temas-crear-con-mayor-facilidad/</link>
+		<comments>https://www.prestashop.com/blog/es/por-que-prestashop-1-7-ayuda-los-disenadores-de-temas-crear-con-mayor-facilidad/#comments</comments>
+		<pubDate>Thu, 01 Dec 2016 14:19:36 +0000</pubDate>
+		<dc:creator><![CDATA[guillaume_b]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15075</guid>
+		<description><![CDATA[<p>“La perfección se alcanza, no cuando no hay nada más que añadir, sino cuando ya no se puede quitar nada más”. Antoine de Saint-Exupéry Quizá no se pueda encontrar mejor cita para describir cómo hemos logrado una de las mejoras más importantes de PrestaShop 1.7: su nueva estructura de tema. En las versiones anteriores de [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/por-que-prestashop-1-7-ayuda-los-disenadores-de-temas-crear-con-mayor-facilidad/">Por qué PrestaShop 1.7 ayuda a los diseñadores de temas a “crear con mayor facilidad”</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>“La perfección se alcanza, no cuando no hay nada más que añadir, sino cuando ya no se puede quitar nada más”. </em><br />
+Antoine de Saint-Exupéry<span id="more-15075"></span></p>
+<p>Quizá no se pueda encontrar mejor cita para describir cómo hemos logrado una de las mejoras más importantes de PrestaShop 1.7: su nueva estructura de tema. En las versiones anteriores de PrestaShop, la creación de un nuevo tema era tarea de desarrolladores. Para crearlo se requerían grandes conocimientos técnicos (HTML, CSS, Smarty y el mismo PrestaShop), además sus plantillas incorporaban un alto nivel de lógica de negocio. Como resultado, los temas solo se construían a partir del tema predeterminado.</p>
+<p>Esta es la razón por la cual creamos una solución mejor para construir y mantener un tema: un tema inicial y un nuevo tema predeterminado. Nuestro objetivo es permitir que cualquier persona pueda crear un tema genial con tan solo unos conocimientos básicos de HTML y CSS, y además, en la mitad del tiempo que se necesitaba para hacerlo con PrestaShop 1.6.</p>
+<p>Llamamos <a href="http://build.prestashop.com/news/starter-theme-news-2/" target="_blank">tema inicial</a> a nuestro tema más básico de PrestaShop 1.7: cuenta con todas las funcionalidades pero no presenta estilos personalizados, así que no hay que quitar nada&#8230;, lo cual es perfecto para los diseñadores ya que les ahorra mucho tiempo cuando se trata de implementar diseños nuevos. También les permite crear un tema listo para la producción con cualquier tecnología front-end a partir de una base sólida.</p>
+<p>El nuevo tema predeterminado, llamado <a href="http://build.prestashop.com/news/new-theme-1-7-introduction/" target="_blank">“Classic”</a>, es un tema gratuito que puedes emplear cuando comienzas tu negocio. Es, además de clásico, eficaz. Se basa en el tema inicial, incluye 4 estructuras Bootstrap y su diseño aporta una imagen visual ligera y neutra, al mismo tiempo que ofrece <a href="http://build.prestashop.com/news/Designing-the-new-PrestaShop-default-theme/" target="_blank">las mejores prácticas web y de e-commerce</a>. Por supuesto es adaptable a dispositivos móviles y además totalmente ajustable y personalizable para hacer de cada compra online una experiencia realmente única. Uno de los puntos fuertes de “Classic” es un <a href="http://build.prestashop.com/news/starter-theme-news-3/" target="_blank">proceso de compra de una página</a> predeterminado, que hace muy fácil la edición del pedido, presenta una recapitulación del carrito siempre a la vista del cliente y permite que este anticipe los pasos previos al pago. Todas estas mejoras en la experiencia del usuario aumentarán a su vez tu tasa de conversión.</p>
+<p>Además, y también muy importante, la funcionalidad de <a href="http://developers.prestashop.com/themes/smarty/parent-child-feature.html" target="_blank">herencia de temas principales/subordinados</a> hará que sea fácil modificar una plantilla sin tener que cambiar el archivo de origen. Gracias a lo cual podrás actualizar tu tema (para arreglar errores, mejorar la seguridad&#8230;) de manera sencilla y sin tocar para nada los parámetros personalizados.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/por-que-prestashop-1-7-ayuda-los-disenadores-de-temas-crear-con-mayor-facilidad/">Por qué PrestaShop 1.7 ayuda a los diseñadores de temas a “crear con mayor facilidad”</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/por-que-prestashop-1-7-ayuda-los-disenadores-de-temas-crear-con-mayor-facilidad/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>El DIY y el e-commerce: cómo innovar con éxito en un mercado tradicional</title>
+		<link>https://www.prestashop.com/blog/es/el-diy-y-el-e-commerce-como-innovar-con-exito-en-un-mercado-tradicional/</link>
+		<comments>https://www.prestashop.com/blog/es/el-diy-y-el-e-commerce-como-innovar-con-exito-en-un-mercado-tradicional/#comments</comments>
+		<pubDate>Tue, 29 Nov 2016 10:12:59 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Caso de éxito]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15082</guid>
+		<description><![CDATA[<p>SelfPackaging ha conseguido modernizar un producto tradicional extensamente comercializado gracias a su completa gama de cajas personalizables fáciles de montar. Esta sociedad española, fundada en 2009, ha logrado un éxito internacional gracias a su concepto único de DIY dirigido tanto a empresas como a particulares con precios competitivos. Josep María Garrofé, fundador de SelfPackaging, y [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/el-diy-y-el-e-commerce-como-innovar-con-exito-en-un-mercado-tradicional/">El DIY y el e-commerce: cómo innovar con éxito en un mercado tradicional</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>SelfPackaging ha conseguido modernizar un producto tradicional extensamente comercializado gracias a su completa gama de cajas personalizables fáciles de montar. <span id="more-15082"></span></p>
+<p>Esta sociedad española, fundada en 2009, ha logrado un éxito internacional gracias a su concepto único de DIY dirigido tanto a empresas como a particulares con precios competitivos.</p>
+<p>Josep María Garrofé, fundador de <a href="http://selfpackaging.es/" target="_blank">SelfPackaging</a>, y David Rodríguez, director financiero de la agencia WebImpacto que ha desarrollado la nueva versión de la web de e-commerce, te muestran en este vídeo la clave del éxito de este negocio tan específico.</p>
+<p>¡Aprovecha sus conocimientos y consejos para sacar el máximo partido a tu web de e-commerce!</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/E9N4isW8TSI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=leslipfrancais"> Ver más videos</a></div>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/el-diy-y-el-e-commerce-como-innovar-con-exito-en-un-mercado-tradicional/">El DIY y el e-commerce: cómo innovar con éxito en un mercado tradicional</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/el-diy-y-el-e-commerce-como-innovar-con-exito-en-un-mercado-tradicional/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Navidad 2016: 5 ideas para preparar la campaña navideña en tu ecommerce</title>
+		<link>https://www.prestashop.com/blog/es/navidad-2016-5-ideas-para-preparar-la-campana-navidena-en-tu-ecommerce/</link>
+		<comments>https://www.prestashop.com/blog/es/navidad-2016-5-ideas-para-preparar-la-campana-navidena-en-tu-ecommerce/#comments</comments>
+		<pubDate>Tue, 22 Nov 2016 16:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15061</guid>
+		<description><![CDATA[<p>Lo sabemos, la navidad está a la vuelta de la esquina y, si aún no has preparado tu plan de marketing para tu tienda online, sentimos decirte que el tiempo se te echa encima. Pero no te preocupes porque siempre hay alternativas y de eso vamos a hablar hoy en nuestro blog, de ideas que [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/navidad-2016-5-ideas-para-preparar-la-campana-navidena-en-tu-ecommerce/">Navidad 2016: 5 ideas para preparar la campaña navideña en tu ecommerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Lo sabemos, <b>la navidad está a la vuelta de la esquina</b> y, si aún no has preparado tu plan de marketing para tu tienda online, sentimos decirte que el tiempo se te echa encima. Pero no te preocupes porque siempre hay alternativas y de eso vamos a hablar hoy en nuestro blog, de ideas que debes tener en cuenta en el plan de marketing de tu negocio de cara a navidad (sí, la de 2016) y, lo mejor, que sirven aunque queden semanas para las fechas clave.</p>
+<p><span id="more-15061"></span></p>
+<p>Vamos a darte <b>cinco consejos de marketing y posicionamiento para conseguir captar a tus potenciales clientes</b>, es decir, ideas que <b>mejorarán tu visibilidad</b> en los motores de búsqueda y ayudarán a que los usuarios encuentren tus productos más fácilmente, indispensable para aprovechar las ventas navideñas. ¡Empezamos!</p>
+<h2><span style="color: #00ccff;">Estudia Google Trends </span></h2>
+<p><b>Estudiar tendencias pasadas</b> nos ayudará a <b>planificar mucho mejor</b> nuestros planes de marketing, sobre todo en una época donde cada céntimo invertido por tu negocio debe estar planeado. Como sabemos, hay búsquedas que son muy estacionales y otras se mantienen estables a lo largo de todo el año. Con Trends podemos <b>encontrar nuevos términos</b> de búsqueda relacionados, búsquedas que quizás hayan pasado desapercibidas por nosotros o incluso términos que, aunque desciendan ligeramente durante la campaña de navidad, pueden ser interesantes para nuestro negocio si tienen una puja más baja, ya que nos ofrecen la posibilidad de vender un producto menos competido.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/Imagen-1-Google-Trends.jpg" target="_blank"><img class="aligncenter  wp-image-15062" alt="Imagen 1 - Google Trends" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-1-Google-Trends.jpg" width="1745" height="833" /></a></p>
+<p>Además, podemos <b>estudiar el comportamiento de los clientes potenciales por localización geográfica</b> de cara a planificar campañas de marketing locales o <b>monitorizar a nuestra competencia</b> si se trata de grandes marcas o tiendas con suficientes búsquedas de marca.</p>
+<p>Seguro que Google Trends te da muchas ideas que puedes utilizar para tu tienda y al final, como en todos los ámbitos, la información es poder. Y necesitamos mucha información antes de planificar nuestra campaña de marketing para la navidad del 2016.</p>
+<h2><span style="color: #00ccff;">Trabaja el posicionamiento en Google Shopping</span></h2>
+<p>Si bien muchas marcas planifican sus campañas de publicidad en el buscador teniendo en cuenta exclusivamente Adwords, lo cierto es que, según en qué productos, para muchas tiendas <b>una buena campaña de Google Shopping puede ser mucho más efectiva para las ventas</b>.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/Imagen-2-Google-Shopping.jpg" target="_blank"><img class="aligncenter  wp-image-15063" alt="Imagen 2 - Google Shopping" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-2-Google-Shopping.jpg" width="1750" height="871" /></a></p>
+<p style="text-align: left;">En primer lugar, debemos tener en cuenta que <b>Shopping es mucho más visual</b> ya que podemos mostrar directamente los productos, algo que, obviamente, va a captar mucho más rápido la atención de los clientes y éste es un aspecto esencial durante la campaña de Navidad ya que la oferta es muy amplia. Además, <b>si tienes una tienda con PrestaShop podrás </b><b>introducir todos los datos de tu web de manera automática</b>. Puedes encontrar toda la información <a href="https://www.prestashop.com/blog/es/ten-exito-en-tus-campanas-de-marketing-con-google-shopping/" target="_blank">en este artículo de nuestro blog</a>.</p>
+<p>Eso sí, no te aconsejamos esta estrategia de marketing si no cuentas con precios competitivos, sobre todo si tu producto no es marca propia y puede encontrarse en otras tiendas online a un mejor precio, ya que la inversión puede que no se traduzca en ventas.</p>
+<h2><span style="color: #00ccff;">Google Adwords + Retargeting </span></h2>
+<p>Si has hecho campañas de Adwords con anterioridad para tu tienda online sabrás que durante las semanas centrales de la campaña navideña <b>la puja por palabra clave sube</b>, y en algunos nichos la subida del CPC es más que notable lo que no puede resultar rentable para campañas de marketing con presupuestos limitados.</p>
+<p>Por eso, nosotros te proponemos para el 2016 una estrategia de pujas combinada con retargeting. <b>Realiza pujas fuertes las semanas previas a navidad</b>, más económicas, y cuando <b>suban</b> por la campaña, paraliza tus anuncios de Adwords y <b>potencia el retargeting</b>.</p>
+<p>Con ello conseguimos un clic más económico de aquellos que se buscan información de nuestros productos de cara a navidad pero que, de primeras, aún no están buscando comprar. Más tarde, cuando llegue la hora de vender, la campaña de retargeting se encargará de alcanzar a aquellos potenciales clientes que se hayan mostrado interesados en nuestra tienda, tanto en Redes Sociales como Facebook o Twitter, como en otras web. Este tipo de campañas combinadas puede ser muy interesante para cualquier negocio, pero sobre todo para aquellos que tengan su presupuesto de marketing más limitado.</p>
+<h2><span style="color: #00ccff;">Actualiza Google My Business </span></h2>
+<p>Como sabes, <b>Google My Business tiene cada vez más relevancia para los motores de búsqueda</b> y muestra los resultados de tu negocio tanto si el usuario nos busca en el buscador, en Maps o en su red social, Google+.</p>
+<p>Si aún no tienes tu cuenta dada de alta, este es el primer paso para tu ecommerce. Después, y sobre todo si tu negocio cuenta con tienda física (aunque no sólo), es importante que mantengas todos tus datos actualizados. Y en navidad eso afecta especialmente al tema horarios.</p>
+<p><b>Si en estas fechas tu negocio va a tener un horario especial</b>,  o va a abrir algún festivo, <b>puedes comunicárselo a tus clientes y también a la compañía californiana</b>. El buscador se dará cuenta que tienes actualizado continuamente la información que ofreces a tus clientes, considerándote más relevante, y te premiará de cara a las búsquedas.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-15065" alt="Imagen 3 - Google My Business" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-3-Google-My-Business.jpg" width="478" height="351" /></p>
+<h2 style="text-align: left;"><span style="color: #00ccff;">Posicionamiento en YouTube </span></h2>
+<p>Si vas a trabajar una estrategia de posicionamiento normal puede que ya sea tarde para Navidad. Por eso, una buena estrategia de marketing para tu negocio puede ser <b>trabajar tu posicionamiento natural desde la plataforma YouTube</b>, ya que el buscador da a estos videos una prioridad, ofreciendo un espacio reservado. Y ten en cuenta que este truco funciona tanto si tienes una tienda online como si trabajas con afiliados.</p>
+<p>¿Cuándo es efectivo este truco? Sobre todo en dos ocasiones:</p>
+<ul>
+<li>Si nuestro trabajo de posicionamiento es sobre <b>Longtail KeyWords</b>.</li>
+<li>Si queremos posicionar un <b>producto específico</b> con búsquedas.</li>
+</ul>
+<p>Para posicionarte en ese espacio reservado para vídeos sólo necesitas tener una cuenta de YouTube y un vídeo nuevo (es decir, que no hayas utilizado anteriormente) relacionado con lo que buscas posicionar.</p>
+<p>El primer paso es trabajar bien el <b>texto onPage del video en la descripción</b>, en la propia web de YouTube. Incluye además un enlace interno al video, explicando de qué habla el video y en qué segundo exacto lo hace, de manera que, cuando un usuario hace clic en él, se le redirige al segundo concreto. En la descripción debe aparecer también un enlace externo a tu web.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/Imagen-4-Youtube-1.jpg" target="_blank"><img class="aligncenter  wp-image-15066" alt="Imagen 4 - Youtube 1" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-4-Youtube-1.jpg" width="1049" height="813" /></a></p>
+<p><b>Añade las etiquetas</b> que consideres relevantes para tu video de manera que, cuando otros usuarios vean vídeos con la misma etiqueta, se les muestre el tuyo como relacionado.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-15079" alt="Imagen 5" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-5.png" width="512" height="268" /></p>
+<p>A continuación redirígete a una cuenta YouTube de algún medio de comunicación y deja en su video destacado un comentario desde tu cuenta. De esta manera conseguimos un <b>enlace interno </b>que hace que la fuerza de la portada del perfil de YouTube de este medio importante pase a tu canal, y repite este paso con varias cuentas más.</p>
+<p><b>Busca las variantes de la URL principal de tu video</b>, que son en torno a unas 50, y realiza un pequeño trabajo de posicionamiento de estas URL’s, sobre todo las que incluyen el código “feature=share”.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/Imagen-6-Youtube-3.jpg" target="_blank"><img class="aligncenter  wp-image-15069" alt="Imagen 6 - Youtube 3" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-6-Youtube-3.jpg" width="1389" height="685" /></a></p>
+<p>Da de alta tu video en las siguientes 13 páginas:</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-15070" alt="Imagen 7 - Youtube 4" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-7-Youtube-4.jpg" width="1012" height="671" /></p>
+<p>Estas páginas lo que hacen es darle al play automáticamente a tu video y repetir la reproducción de manera automática, además de <b>embeber tu video</b>, que es lo que más nos interesa para posicionar nuestro video.</p>
+<p>Ve a <b>sites.google.com</b> y a <b>docs.google.com</b> y crea una página dedicada a la KW que quieras posicionar, con un texto parecido al del video y añade tanto las variantes del video de YouTube que hayas localizado, como los 13 enlaces embebidos que hemos creado. Puedes añadir imágenes originales (es decir, que no estén indexadas en ninguna otra página web) para mayor eficacia, si no tienes, haz una imagen propia o un collage con las ya existentes. Añade además en el Google Sites un enlace al Docs que has abierto anteriormente.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/Imagen-8-Youtube-5.jpg" target="_blank"><img class="aligncenter  wp-image-15071" alt="Imagen 8 - Youtube 5" src="https://www.prestashop.com/blog/es/files/2016/11/Imagen-8-Youtube-5.jpg" width="1251" height="849" /></a></p>
+<p>Para que se indexen todos estos enlaces de forma rápida directamente desde <b>Google Search Console</b>. Hazlo de forma escalonada.</p>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/SoxU5kz15Kc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Con estos pasos, en cuestión de minutos tu video estará posicionado tanto en la primera página de Google, en ese espacio reservado para videos, como en el buscador interno de YouTube, y <b>todo en plena campaña de navidad</b>. ¿Quién da más?</p>
+<p>&nbsp;</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/navidad-2016-5-ideas-para-preparar-la-campana-navidena-en-tu-ecommerce/">Navidad 2016: 5 ideas para preparar la campaña navideña en tu ecommerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/navidad-2016-5-ideas-para-preparar-la-campana-navidena-en-tu-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Instagram: ¿Cómo usarlo para potenciar tu tienda online?</title>
+		<link>https://www.prestashop.com/blog/es/instagram-como-usarlo-para-potenciar-tu-tienda-online/</link>
+		<comments>https://www.prestashop.com/blog/es/instagram-como-usarlo-para-potenciar-tu-tienda-online/#comments</comments>
+		<pubDate>Tue, 22 Nov 2016 16:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15051</guid>
+		<description><![CDATA[<p>¡2016 ha sido el año de Instagram! La aplicación cuenta ya con más de 500 millones de usuarios mensuales (¡más que Twitter!) y el 60 % de ellos se conecta a diario. Esas cifras la convierten en la red social más activa por detrás de Facebook. Instagram se ha impuesto rápidamente en el universo de las [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/instagram-como-usarlo-para-potenciar-tu-tienda-online/">Instagram: ¿Cómo usarlo para potenciar tu tienda online?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¡2016 ha sido el año de Instagram! La aplicación cuenta ya con más de <a href="https://www.instagram.com/press/?hl=fr" target="_blank">500 millones de usuarios mensuales</a> (¡más que Twitter!) y el 60 % de ellos se conecta a diario. Esas cifras la convierten en la red social más activa por detrás de Facebook.<br />
+<span id="more-15051"></span></p>
+<p>Instagram se ha impuesto rápidamente en el universo de las marcas. Esta nueva vía de difusión es especialmente importante para los sitios de e-commerce. El 70 % de los usuarios afirma haber <a href="http://blog.iconosquare.com/instagram-2015-study-unleash-power-instagram/" target="_blank">buscado alguna marca en la plataforma</a> y las firmas más importantes alcanzan una <a href="http://blogs.forrester.com/nate_elliott/14-04-29-instagram_is_the_king_of_social_engagement" target="_blank">tasa de participación del 4,21 %</a> (lo que ha llevado a que Forrester considere Instagram como «el rey de la interacción social»).</p>
+<p>¿Y qué hay de las estadísticas más interesantes para los vendedores online? Según <a href="http://business.financialpost.com/investing/trading-desk/how-instagram-is-becoming-a-must-have-for-retailers?__lsa=6904-3bfd" target="_blank">un reciente estudio del centro de investigación L2</a>, Instagram tendría el índice de conversión de “visitantes” en “compradores” más alto de todas las redes sociales.</p>
+<p>¡Ya va siendo hora de tomarse esta herramienta en serio! Hasta la fecha, muy pocas empresas le han dedicado el tiempo que merece. Descubre en esta página unas cuantas cifras relativas a Instagram&#8230; y los mejores trucos sobre la estrategia de marketing más adecuada.</p>
+<h2><span style="color: #00ccff;">1.  Destaca tu catálogo de productos</span></h2>
+<p>La creatividad es la esencia de Instagram: puedes destacar el valor de tus productos de una forma única y original. ¡Evita ser demasiado comercial! A los usuarios les gustan las fotos que les permiten conocer y evaluar la identidad visual de una empresa&#8230; sin tener que lidiar con argumentos de venta.</p>
+<p>Aunque hay algunos sectores como la moda o la belleza en los que es más fácil publicar imágenes bonitas, Instagram está cobrando cada vez más importancia en todo tipo de negocios. ¿Necesitas ejemplos? <a href="https://www.instagram.com/leroymerlin/" target="_blank">Leroy Merlin</a> y <a href="https://www.instagram.com/officedepot/" target="_blank">Office Depot </a>han dado con una estrategia imaginativa para mostrar sus productos y despertar la curiosidad de los usuarios:</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/leroy-merlin.jpg" target="_blank"><img class="aligncenter  wp-image-15053" alt="leroy merlin" src="https://www.prestashop.com/blog/es/files/2016/11/leroy-merlin.jpg" width="1462" height="924" /></a></p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/office-depot.jpg" target="_blank"><img class="aligncenter  wp-image-15054" alt="office depot" src="https://www.prestashop.com/blog/es/files/2016/11/office-depot.jpg" width="1438" height="921" /></a></p>
+<h2><span style="color: #00ccff;">2. Modela la personalidad de tu marca e inspira a tus seguidores</span></h2>
+<p>En Instagram la interacción con las marcas <a href="https://www.brandwatch.com/blog/37-instagram-stats-2016/" target="_blank">es 10 veces superior</a> a la de Facebook. Puedes explorar todo tipo de posibilidades para desarrollar una identidad de marca coherente y reconocible.</p>
+<p>Además de fotos de tus productos, puedes probar con formatos innovadores: vídeos, citas, estadísticas o incluso concursos con premios de regalo. Haz pruebas para descubrir a qué publicaciones responden mejor tus seguidores.</p>
+<p>Otra alternativa es publicar imágenes y vídeos sobre los secretos de fabricación de tus productos o sobre el día a día de tu empresa. Gracias a esta estrategia también podrás encontrar nuevos empleados a los que les guste el estilo y la cultura de tu empresa.</p>
+<p>Otro truco especialmente útil para pymes y artesanos: cuelga fotos de tu barrio con <a href="https://fr.wikipedia.org/wiki/G%C3%A9otag" target="_blank">geoetiquetas</a> que indiquen tu ubicación. Es la forma perfecta de atraer a más seguidores y de que te visiten nuevos clientes.</p>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/scoop.jpg" target="_blank"><img class="aligncenter  wp-image-15056" alt="scoop" src="https://www.prestashop.com/blog/es/files/2016/11/scoop.jpg" width="1467" height="924" /></a></p>
+<h2><span style="color: #00ccff;">3. Mejora las ventas</span></h2>
+<p>Ya has creado tu comunidad pero, ¿cómo convertir el número de seguidores en ventas para tu empresa? Si tenemos en cuenta que el 78 % de los internautas<a href="http://www.socialmediatoday.com/marketing/masroor/2015-05-28/social-media-biggest-influencer-buying-decisions" target="_blank"> reconoce la influencia de las redes sociales corporativas en sus compras</a>, puede que ya estés cosechando los frutos.</p>
+<p>Si lo que buscas es un método más seguro y evaluable de potenciar las ventas, tendrás que invertir en campañas publicitarias. Según un reciente estudio, <a href="https://www.elegantthemes.com/blog/resources/5-social-commerce-trends-to-watch-out-for-in-2016" target="_blank">el valor medio del carrito de los pedidos</a> que llegan desde Instagram es de 65 $, frente a los 55 $ de Facebook o los 46,29 $ de Twitter.</p>
+<p>Los anuncios consisten en fotos o vídeos con botones de acción como: &#8220;Shop Now&#8221; (Comprar ahora), &#8220;Install Now&#8221; (Instalar ahora) o &#8220;Sign Up&#8221; (Suscribirse). De momento, cuando los internautas pinchan en esos botones van a tu página web, pero Instagram está trabajando en una nueva versión <a href="https://www.zonebourse.com/FACEBOOK-INC-10547141/actualite/Facebook-Instagram-permet-de-vendre-directement-dans-son-application-23333485/" target="_blank">de compra directa desde la aplicación</a>&#8230; una opción que sin duda mejorará tu tasa de conversión.</p>
+<p style="text-align: center;"><a href="http://blog.business.instagram.com/post/128686033016/150909-advertisinglaunch" target="_blank"><img class="aligncenter  wp-image-15057" alt="Instagram ads" src="https://www.prestashop.com/blog/es/files/2016/11/Instagram-ads.jpg" width="1200" height="525" /></a></p>
+<p>¡Tres buenas razones para integrar Instagram en tu estrategia de negocio!</p>
+<p><i>SteerFox es una solución de adquisición de tráfico 100 % automatizada. Da a los vendedores online la posibilidad de mejorar los resultados de sus campañas publicitarias en canales como Instagram, Facebook, Google Adwords o Google Shopping. </i><a href="http://addons.prestashop.com/es/22636-automated-traffic-buying-by-steerfox.html" target="_blank"><i>¿Quieres más información? Échale un vistazo a nuestro módulo PrestaShop. </i></a></p>
+<p>&nbsp;</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/instagram-como-usarlo-para-potenciar-tu-tienda-online/">Instagram: ¿Cómo usarlo para potenciar tu tienda online?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/instagram-como-usarlo-para-potenciar-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo aprovechar de forma eficaz las redes sociales para tu sitio de e-commerce</title>
+		<link>https://www.prestashop.com/blog/es/como-aprovechar-de-forma-eficaz-las-redes-sociales-para-tu-sitio-de-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/es/como-aprovechar-de-forma-eficaz-las-redes-sociales-para-tu-sitio-de-e-commerce/#comments</comments>
+		<pubDate>Tue, 22 Nov 2016 15:28:57 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15034</guid>
+		<description><![CDATA[<p>Hoy en día es evidente que para dar visibilidad a tu sitio de e-commerce tienes que estar presente en las redes sociales. Facebook, Twitter, Pinterest&#8230; las conoces seguramente y ya las utilizas para uso personal. Sin embargo, aprovechar las redes sociales como instrumento de captación de clientes para tu sitio de e-commerce no es tarea [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-aprovechar-de-forma-eficaz-las-redes-sociales-para-tu-sitio-de-e-commerce/">Cómo aprovechar de forma eficaz las redes sociales para tu sitio de e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy en día es evidente que para dar visibilidad a tu sitio de e-commerce tienes que estar presente en las redes sociales. Facebook, Twitter, Pinterest&#8230; <span id="more-15034"></span>las conoces seguramente y ya las utilizas para uso personal. Sin embargo, aprovechar las redes sociales como instrumento de captación de clientes para tu sitio de e-commerce no es tarea fácil.<br />
+De hecho, para lograr desarrollar con éxito tu comunidad, así como tu visibilidad en las redes sociales, tendrás que:</p>
+<ul>
+<li>posicionarte en las redes sociales más adecuadas,</li>
+<li>enfocar tus publicaciones,</li>
+<li>ofrecer contenido pertinente,</li>
+<li>y, sobre todo, ser lo suficientemente activo para resultar eficaz.</li>
+</ul>
+<p>En PrestaShop queremos ayudarte en esta tarea. Por eso hemos recogido todos nuestros consejos en un vídeo para que puedas mejorar así tus resultados en las redes sociales.</p>
+<p>CONTENIDO EXTRA: ¡Empiezan las ventas de Navidad! Al final del vídeo, te damos todos los trucos para ser aún más eficaz en las redes sociales durante este periodo clave.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/eUP-Cp4gbp8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=prestashopsocialmedia">Ver más videos</a></div>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-aprovechar-de-forma-eficaz-las-redes-sociales-para-tu-sitio-de-e-commerce/">Cómo aprovechar de forma eficaz las redes sociales para tu sitio de e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/como-aprovechar-de-forma-eficaz-las-redes-sociales-para-tu-sitio-de-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trucos de diseño para lograr un sitio web muy navideño</title>
+		<link>https://www.prestashop.com/blog/es/trucos-de-diseno-para-lograr-un-sitio-web-muy-navideno/</link>
+		<comments>https://www.prestashop.com/blog/es/trucos-de-diseno-para-lograr-un-sitio-web-muy-navideno/#comments</comments>
+		<pubDate>Tue, 22 Nov 2016 15:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=15043</guid>
+		<description><![CDATA[<p>Una de las ventajas de hacer las compras navideñas online es evitarse todo el jaleo de las calles y los centros comerciales: aparcar, hacer cola o que se acabe el papel de regalo justo cuando te toca a ti. Pero las tiendas online también pueden intimidar, sobre todo si el cliente tiene una lista larga [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/trucos-de-diseno-para-lograr-un-sitio-web-muy-navideno/">Trucos de diseño para lograr un sitio web muy navideño</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Una de las ventajas de hacer las compras navideñas online es evitarse todo el jaleo de las calles y los centros comerciales: aparcar, hacer cola o que se acabe el papel de regalo justo cuando te toca a ti.</p>
+<p>Pero las tiendas online también pueden intimidar, sobre todo si el cliente tiene una lista larga y no sabe por dónde empezar. Prueba algunas de estas ideas para facilitar el proceso y que todos tus clientes —también los nuevos— disfruten y se diviertan con la compra.<br />
+<span id="more-15043"></span></p>
+<hr />
+<h1 style="text-align: center;"><span style="color: #00ccff;">Design Checklist</span></h1>
+<p style="text-align: center;"><a href="https://www.prestashop.com/blog/es/files/2016/11/Checklist_designTips_ES-copie.jpg" target="_blank"><img class="aligncenter  wp-image-15044" alt="Checklist_designTips_ES" src="https://www.prestashop.com/blog/es/files/2016/11/Checklist_designTips_ES-copie.jpg" width="1200" height="2245" /></a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/trucos-de-diseno-para-lograr-un-sitio-web-muy-navideno/">Trucos de diseño para lograr un sitio web muy navideño</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/trucos-de-diseno-para-lograr-un-sitio-web-muy-navideno/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
